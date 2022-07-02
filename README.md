@@ -1,1 +1,1 @@
-# ProgrammingExercise
+# ProgrammingExercise (Mastermind)

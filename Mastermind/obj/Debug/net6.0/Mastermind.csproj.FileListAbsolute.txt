@@ -1,0 +1,15 @@
+/home/benzquaiae/Mastermind/bin/Debug/net6.0/Mastermind
+/home/benzquaiae/Mastermind/bin/Debug/net6.0/Mastermind.deps.json
+/home/benzquaiae/Mastermind/bin/Debug/net6.0/Mastermind.runtimeconfig.json
+/home/benzquaiae/Mastermind/bin/Debug/net6.0/Mastermind.dll
+/home/benzquaiae/Mastermind/bin/Debug/net6.0/Mastermind.pdb
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.csproj.AssemblyReference.cache
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.AssemblyInfoInputs.cache
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.AssemblyInfo.cs
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.csproj.CoreCompileInputs.cache
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.dll
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/refint/Mastermind.dll
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.pdb
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/Mastermind.genruntimeconfig.cache
+/home/benzquaiae/Mastermind/obj/Debug/net6.0/ref/Mastermind.dll
